@@ -89,8 +89,8 @@ body {
   border: 2px #a076c5 solid;
   border-radius: 15px;  
   background: linear-gradient(to bottom, #465e61, #0b1928);
-  /*background: -webkit-linear-gradient(to right, #faaca8, #ddd6f3); 
-  /*background: linear-gradient(to right, #faaca8, #ddd6f3); 
+  /*background: -webkit-linear-gradient(to right, #faaca8, #ddd6f3);  /* Chrome 10-25, Safari 5.1-6 */
+  /*background: linear-gradient(to right, #faaca8, #ddd6f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .section {  
