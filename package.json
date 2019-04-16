@@ -1,7 +1,8 @@
 {
-  "name": "fcc-api-projects-boilerplate",
+  "name": "fcc-api-projects-Node.js-Timestamp-Microservice",
   "version": "0.0.1",
-  "description": "An FCC Backend Challenge",
+  "description": "An FCC Backend Project",
+  "author": "https://github.com/Madness2aMaze",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
